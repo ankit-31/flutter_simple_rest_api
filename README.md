@@ -1,6 +1,6 @@
 # restapi1
 
-A new Flutter project.
+Simple use of get and post method
 
 ## Getting Started
 
